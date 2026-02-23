@@ -11,8 +11,13 @@ Hello, my name is Arseny. I am a student at Saratov State University, my major i
 
 ## Current Stack
 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## Reports & Documentation
+
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 <!--
 **ArsenyBurov/ArsenyBurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
